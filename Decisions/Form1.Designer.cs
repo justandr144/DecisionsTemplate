@@ -184,7 +184,7 @@ namespace Decisions
             this.num2Label.Name = "num2Label";
             this.num2Label.Size = new System.Drawing.Size(71, 24);
             this.num2Label.TabIndex = 12;
-            this.num2Label.Text = "Num 1:";
+            this.num2Label.Text = "Num 2:";
             // 
             // maxButton
             // 
